@@ -1,6 +1,6 @@
 ### Olá, sou Samuel Martins,
 
-- 🔭 Hoje trabalho com Python/Javascript
+- 🔭 Hoje trabalho com Python/Javascript/Power Bi
 - 🌱 Estudando React/Typescript
 - 📫 Contate-me no email: sgranierimartins@gmail.com
 
