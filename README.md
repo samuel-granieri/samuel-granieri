@@ -3,6 +3,7 @@
 - 🔭 Hoje trabalho com Python, Javascript e Power Bi
 - 🌱 Estudando React/Typescript
 - 📫 Contate-me no email: sgranierimartins@gmail.com
+- 🕗 Já trabalhei com Tableau, Qlik Sense...
 
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=samuel-granieri&show_icons=true&theme=dark">
