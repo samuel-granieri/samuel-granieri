@@ -1,7 +1,7 @@
 ### Olá, sou Samuel Martins,
 
-- 🔭 Hoje trabalho com Python, Javascript e Power Bi
-- 🌱 Estudando React/Typescript
+- 🔭 Hoje trabalho com Power Bi/Python
+- 🌱 Estudando Javascript/React/Typescript
 - 📫 Contate-me no email: sgranierimartins@gmail.com
 - 🕗 Já trabalhei com Tableau, Qlik Sense...
 
