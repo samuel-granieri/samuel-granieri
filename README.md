@@ -1,7 +1,7 @@
 ### Olá, seja bem vindo(a)!
 
 - 🔭 Um pouco sobre mim...
-- Atuando há mais de 7 anos no mercado de tecnologia, passei por diveras áreas como RPA, business inteligence e desenvolvimento de software utilizando diversas linguagens ferramentas em diferentes setores.
+- Atuando há mais de 6 anos no mercado de tecnologia, passei por diveras áreas como desenvolvimento de software, robotic process automation (RPA), business intelligence e analytics utilizando diversas linguagens ferramentas em diferentes setores.
 
 <div style="display": inline_block><br>
   <img align="center" alt="Samuel.py" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
