@@ -1,6 +1,7 @@
-### Olá, sou Samuel Martins
+### Olá, seja bem vindo(a)!
 
-- 🔭 Engenheiro de Software
+- 🔭 Um pouco sobre mim...
+- Atuando há mais de 7 anos no mercado de tecnologia, passei por diveras áreas como RPA, business inteligence e desenvolvimento de software utilizando diversas linguagens ferramentas em diferentes setores.
 
 <div style="display": inline_block><br>
   <img align="center" alt="Samuel.py" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
