@@ -1,9 +1,7 @@
 ### Olá, sou Samuel Martins,
 
-- 🔭 Hoje trabalho com Power Bi/Python
-- 🌱 Estudando Javascript/React/Typescript
-- 📫 Contate-me no email: sgranierimartins@gmail.com
-- 🕗 Já trabalhei com Tableau, Qlik Sense...
+- 🔭 Engenheiro de Software
+
 
 <div>
   <img height="180em" src="https://github-readme-stats.sigma-five.vercel.app/api?username=samuel-granieri&show_icons=true&theme=dark">
