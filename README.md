@@ -1,4 +1,4 @@
-### Olá, sou Samuel Martins,
+### Olá, sou Samuel Martins
 
 - 🔭 Engenheiro de Software
 
