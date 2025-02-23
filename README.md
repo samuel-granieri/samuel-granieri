@@ -2,12 +2,6 @@
 
 - 🔭 Engenheiro de Software
 
-
-<div>
-  <img height="180em" src="https://github-readme-stats.sigma-five.vercel.app/api?username=samuel-granieri&show_icons=true&theme=dark">
-  <img height="180em" src="https://github-readme-stats.sigma-fivevercel.app/api/top-langs/?username=samuel-granieri&show_icons=true&theme=dark"">
-</div>
-
 <div style="display": inline_block><br>
   <img align="center" alt="Samuel.py" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
   <img align="center" alt="Samuel.jsx/tsx" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
